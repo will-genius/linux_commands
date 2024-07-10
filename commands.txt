@@ -1,0 +1,40 @@
+### Basic Linux Commands
+1. `ls` - List directory contents.
+2. `cd` - Change the current directory.
+3. `pwd` - Print the current working directory.
+4. `cp` - Copy files and directories.
+5. `mv` - Move/rename files and directories.
+6. `rm` - Remove files and directories.
+7. `touch` - Create an empty file or update the timestamp of an existing file.
+8. `mkdir` - Create a new directory.
+9. `rmdir` - Remove an empty directory.
+10. `cat` - Concatenate and display file content.
+11. `echo` - Display a line of text or write text to a file.
+12. `grep` - Search text using patterns.
+13. `find` - Search for files in a directory hierarchy.
+14. `chmod` - Change file permissions.
+15. `chown` - Change file owner and group.
+
+### Sudo Commands
+1. `sudo apt update` - Update package lists.
+2. `sudo apt upgrade` - Upgrade all upgradable packages.
+3. `sudo apt install [package]` - Install a new package.
+4. `sudo apt remove [package]` - Remove an installed package.
+5. `sudo apt autoremove` - Remove unnecessary packages.
+6. `sudo apt purge [package]` - Remove a package and its configuration files.
+7. `sudo reboot` - Reboot the system.
+8. `sudo shutdown now` - Shut down the system immediately.
+9. `sudo adduser [username]` - Add a new user.
+10. `sudo deluser [username]` - Delete a user.
+11. `sudo passwd [username]` - Change a user's password.
+12. `sudo visudo` - Edit the sudoers file.
+13. `sudo fdisk -l` - List all disk partitions.
+14. `sudo mount [device] [directory]` - Mount a filesystem.
+15. `sudo umount [directory]` - Unmount a filesystem.
+
+
+
+
+
+
+
